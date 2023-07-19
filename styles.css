@@ -1,0 +1,37 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+
+#boton-inicio {
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #212121;
+    border: 2px solid black;
+    color: wheat;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0px;
+}
+
+#boton-juegos {
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #212121;
+    border: 2px solid black;
+    color: wheat;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0px;
+}
+
+#boton-equipo {
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #212121;
+    border: 2px solid black;
+    color: wheat;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0px;
+}
